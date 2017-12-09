@@ -1,6 +1,8 @@
 01 - Drum Kit
 =============
 
+<img src="front.png" width=100 height=100>
+
 view demo [here]()
 
 ## Bind an event to our keys when they are pressed.
