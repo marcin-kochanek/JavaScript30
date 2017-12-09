@@ -3,7 +3,7 @@
 
 <img src="front.png" width=700 height=100%>
 
-view demo [here]()
+view demo [here](https://marcin-kochanek.github.io/JavaScript30/01_Drum%20Kit/index.html)
 
 ## Bind an event to our keys when they are pressed.
 
