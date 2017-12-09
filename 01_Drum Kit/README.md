@@ -38,7 +38,8 @@ just add ```audio.currentTime = 0;``` before ```audio.play();```
 - use ```transitionend``` event to remove play class. since we want to just remove transform property, so add a condition to skip others.
 
 ```if(e.propertyName != 'transform') return;
-this.classList.remove('playing'); // `event.target.classList.remove('playing');```
+this.classList.remove('playing'); // event.target.classList.remove('playing');`
+```
 
 ## forEach and Arrow function
 
