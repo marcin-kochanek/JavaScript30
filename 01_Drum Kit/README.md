@@ -1,7 +1,7 @@
 01 - Drum Kit
 =============
 
-<img src="front.png" width=400 height=100%>
+<img src="front.png" width=700 height=100%>
 
 view demo [here]()
 
