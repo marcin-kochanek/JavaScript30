@@ -12,7 +12,7 @@ window.addEventListener('keydown', playSound)
 - ```playSound()``` is a listener for ```keydown``` events registered using ```window.addEventListener```.
 - ```window``` is the global object in a browser, or the root object of the DOM. And ```document``` stands for DOM.
 
-## data-key has its own value on <div>s and <audio>s in HTML
+## data-key has its own value on ```<div>s``` and ```<audio>s``` in HTML
 
 ```
 const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
