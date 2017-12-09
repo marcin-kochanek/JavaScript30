@@ -1,7 +1,7 @@
 01 - Drum Kit
 =============
 
-<img src="front.png" width=700 height=100%>
+<img src="./images/front.png" width=700 height=100%>
 
 view demo [here](https://marcin-kochanek.github.io/JavaScript30/01_Drum%20Kit/index.html)
 
