@@ -1,7 +1,7 @@
 01 - Drum Kit
 =============
 
-view demo [here] ()
+view demo [here]()
 
 ## Bind an event to our keys when they are pressed.
 
@@ -20,10 +20,10 @@ const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
 ```
 
 - ```keyCode``` property is the KEY to connect our buttons ```(<div>s)``` and sounds ```(<audio>s)```.
-- ```keyCode``` 's value is same as ```ASCII``` code (in lowercase letter ), check keycodes [here] (http://keycode.info/)
+- ```keyCode``` 's value is same as ```ASCII``` code (in lowercase letter ), check keycodes [here](http://keycode.info/)
 - ```data-key``` is set for mapping buttons and audios to get the ```keyCodes``` via ```keydown``` event.
 - the whole ```querySelector``` expression has to be in back ticks ().
-- ```${}``` is syntactic sugar for template literals, read more about ```Expression interpolation``` [here] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- ```${}``` is syntactic sugar for template literals, read more about ```Expression interpolation``` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## About playing sounds
 
